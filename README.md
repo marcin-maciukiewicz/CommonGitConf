@@ -16,3 +16,4 @@ $> edit ~/.gitconfig
     [include]
         path = [REPLACE_WITH_REAL_PATH_TO_THE_FILE]/gitconfig-alias    
 </code></pre>
+See <a href="http://git-scm.com/docs/git-config#_includes">git manual</a> for details
