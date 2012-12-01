@@ -1,0 +1,7 @@
+[merge]
+        tool = opendiff
+
+[mergetool "diffmerge"]
+        cmd = "opendiff --merge --result=\"$MERGED\" \"$LOCAL\" \"$(if test -f \"$BASE\"; then echo \"$BASE\"; else echo \"$LOCAL\"; fi)\" \"$REMOTE\""
+        trustExitCode = false
+
