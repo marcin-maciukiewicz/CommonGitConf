@@ -5,9 +5,9 @@ This repo contains common git settings you can easily include in your configurat
 
 HOWTO
 =====
-Installation includes two easy steps:
-1. Clone the repository
-2. Include selected settings files into your configuration. 
+Installation includes two easy steps:<br/>
+1. Clone the repository<br/>
+2. Include selected settings files into your configuration. <br/>
  
 Example:<br/> 
 To add common command aliases to user-wide git configuration open .gitconfig file from your home folder then add following line:
